@@ -18,8 +18,6 @@
 - [🔌 API Endpoints](#-api-endpoints)
 - [🔑 Credenciales de Prueba](#-credenciales-de-prueba)
 - [📸 Capturas de Pantalla](#-capturas-de-pantalla)
-- [📝 Rúbrica de Evaluación](#-rúbrica-de-evaluación-s9)
-- [👤 Autor](#-autor)
 
 ---
 
@@ -112,19 +110,6 @@ Antes de empezar, asegúrate de tener instalado:
 | **Maven** | 3.9+ | `mvn -v` |
 | **Node.js** | 20+ | `node -v` |
 | **npm** | 10+ | `npm -v` |
-
-### Instalación en Arch Linux
-
-```bash
-# Java 21
-sudo pacman -S jdk21-openjdk
-
-# Maven
-sudo pacman -S maven
-
-# Node.js + npm
-sudo pacman -S nodejs npm
-```
 
 ---
 
@@ -471,27 +456,6 @@ Agrega aquí las capturas del flujo:
 
 ---
 
-## 📝 Rúbrica de Evaluación (S9)
-
-| Criterio | Puntos | Estado |
-|---|---|---|
-| C1: Home con branding y botón | 4 pts | ✅ |
-| C2: Interfaz de login | 3 pts | ✅ |
-| C3: Login conectado a BD | 5 pts | ✅ |
-| C4: Mensaje éxito/error | 4 pts | ✅ |
-| C5: Dashboard con datos | 4 pts | ✅ |
-| **TOTAL** | **20/20** | ✅ |
-
----
-
-## 👤 Autor
-
-- GitHub: `@AntoniRaul`
-- Proyecto: `falabella-proyecto`
-- Curso: `Desarrollo Web`
-
----
-
 ## ⚠️ Nota
 
 Este proyecto es de carácter académico.
@@ -506,16 +470,3 @@ En un entorno real se recomienda utilizar:
 - Validación y sanitización de datos
 
 ---
-
-## 📤 Subir cambios a GitHub
-
-```bash
-cd ~/Idea_Projects/Falabella
-
-git add README.md
-
-git commit -m "docs: README completo con estructura, instalación, API y flujo"
-
-git push origin main
-```
-````
