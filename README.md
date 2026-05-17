@@ -443,8 +443,6 @@ Usuario no encontrado
 
 ## 📸 Capturas de Pantalla
 
-Agrega aquí las capturas del flujo:
-
 | # | Pantalla | Descripción |
 |---|---|---|
 | 1 | Home | Branding Falabella + botón Banca Internet |
